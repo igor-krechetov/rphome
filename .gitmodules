@@ -1,0 +1,6 @@
+[submodule "modules/hwiocpp"]
+	path = modules/hwiocpp
+	url = https://github.com/igor-krechetov/hwiocpp.git
+[submodule "modules/hsmcpp"]
+	path = modules/hsmcpp
+	url = https://github.com/igor-krechetov/hsmcpp.git

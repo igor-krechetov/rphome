@@ -1,3 +1,7 @@
+build
+# Qt Design Studio local files
+*.qtds
+
 # Prerequisites
 *.d
 
